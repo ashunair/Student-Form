@@ -1,0 +1,12 @@
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\bin\Debug\StudentData.exe.config
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\bin\Debug\StudentData.exe
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\bin\Debug\StudentData.pdb
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.Form1.resources
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.Properties.Resources.resources
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.csproj.GenerateResource.Cache
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.exe
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.pdb
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.Form2.resources
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.Form3.resources
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.csprojAssemblyReference.cache
+C:\Users\ASHWATHY. J. NAIR\Documents\Visual Studio 2012\Projects\StudentData\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
