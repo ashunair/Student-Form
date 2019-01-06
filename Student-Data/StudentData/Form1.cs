@@ -17,7 +17,7 @@ namespace StudentData
         public Form1()
         {
             InitializeComponent();
-            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\ASHWATHY. J. NAIR\Documents\StudentForm.accdb;
+            connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=path-of-file\StudentForm.accdb;
 Persist Security Info=False;";
         }
 
